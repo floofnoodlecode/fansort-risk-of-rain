@@ -1,0 +1,200 @@
+{
+	"rankings": [
+		{
+			"title": "Risk of Rain - Artifacts Fun",
+			"state": "m7LQQHih4SSGSQsNprFMYmfjnMzAyswxiYkRAA"
+		}
+	],
+	"items": [
+		{
+			"name": "Honor",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Honor",
+				"img": {
+					"src": "assets/imgs/honor.png",
+					"width": 100,
+					"height": 100
+				},
+				"thumb": {
+					"src": "assets/thumbs/honor.png",
+					"width": 90,
+					"height": 68
+				},
+				"fields": {
+					"effect": "Enemies always spawn as elites"
+				}
+			}
+		},
+		{
+			"name": "Kin",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Kin",
+				"img": {
+					"src": "assets/imgs/kin.png",
+					"width": 100,
+					"height": 100
+				},
+				"thumb": {
+					"src": "assets/thumbs/kin.png",
+					"width": 90,
+					"height": 68
+				},
+				"fields": {
+					"effect": "Only one enemy type spawns per stage"
+				}
+			}
+		},
+		{
+			"name": "Distortion",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Distortion",
+				"img": {
+					"src": "assets/imgs/distortion.png",
+					"width": 100,
+					"height": 100
+				},
+				"thumb": {
+					"src": "assets/thumbs/distortion.png",
+					"width": 90,
+					"height": 68
+				},
+				"fields": {
+					"effect": "Lock a random skill every minute"
+				}
+			}
+		},
+		{
+			"name": "Spite",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Spite",
+				"img": {
+					"src": "assets/imgs/spite.png",
+					"width": 100,
+					"height": 100
+				},
+				"thumb": {
+					"src": "assets/thumbs/spite.png",
+					"width": 90,
+					"height": 68
+				},
+				"fields": {
+					"effect": "Enemies explode on death"
+				}
+			}
+		},
+		{
+			"name": "Glass",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Glass",
+				"img": {
+					"src": "assets/imgs/glass.png",
+					"width": 100,
+					"height": 100
+				},
+				"thumb": {
+					"src": "assets/thumbs/glass.png",
+					"width": 90,
+					"height": 68
+				},
+				"fields": {
+					"effect": "Deal 500% damage, but have 10% health"
+				}
+			}
+		},
+		{
+			"name": "Enigma",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Enigma",
+				"img": {
+					"src": "assets/imgs/enigma.png",
+					"width": 100,
+					"height": 100
+				},
+				"thumb": {
+					"src": "assets/thumbs/enigma.png",
+					"width": 90,
+					"height": 68
+				},
+				"fields": {
+					"effect": "Use items have a random effect"
+				}
+			}
+		},
+		{
+			"name": "Sacrifice",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Sacrifice",
+				"img": {
+					"src": "assets/imgs/sacrifice.png",
+					"width": 100,
+					"height": 100
+				},
+				"thumb": {
+					"src": "assets/thumbs/sacrifice.png",
+					"width": 90,
+					"height": 68
+				},
+				"fields": {
+					"effect": "Chests no longer spawn; monsters now drop items on death"
+				}
+			}
+		},
+		{
+			"name": "Command",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Command",
+				"img": {
+					"src": "assets/imgs/command.png",
+					"width": 100,
+					"height": 100
+				},
+				"thumb": {
+					"src": "assets/thumbs/command.png",
+					"width": 90,
+					"height": 68
+				},
+				"fields": {
+					"effect": "Items are no longer random"
+				}
+			}
+		},
+		{
+			"name": "Spirit",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Spirit",
+				"img": {
+					"src": "assets/imgs/spirit.png",
+					"width": 100,
+					"height": 100
+				},
+				"thumb": {
+					"src": "assets/thumbs/spirit.png",
+					"width": 90,
+					"height": 68
+				},
+				"fields": {
+					"effect": "Characters run faster at lower health"
+				}
+			}
+		},
+		{
+			"name": "Origin",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Origin",
+				"img": {
+					"src": "assets/imgs/origin.png",
+					"width": 100,
+					"height": 100
+				},
+				"thumb": {
+					"src": "assets/thumbs/origin.png",
+					"width": 90,
+					"height": 68
+				},
+				"fields": {
+					"effect": "Imps invade the map every 10 minutes"
+				}
+			}
+		}
+	]
+}

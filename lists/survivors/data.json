@@ -1,0 +1,202 @@
+{
+	"rankings": [
+		{
+			"title": "Risk of Rain - Survivors",
+			"state": "m7LQQGKh4SSGSQsNZnAzsXNNZmBjnszKyMLBCQA"
+		}
+	],
+	"items": [
+		{
+			"name": "Commando",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Commando",
+				"img": {
+					"src": "assets/imgs/commando.png",
+					"width": 56,
+					"height": 148
+				},
+				"thumb": {
+					"src": "assets/thumbs/commando.png",
+					"width": 56,
+					"height": 64
+				}
+			}
+		},
+		{
+			"name": "Enforcer",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Enforcer",
+				"img": {
+					"src": "assets/imgs/enforcer.png",
+					"width": 56,
+					"height": 148
+				},
+				"thumb": {
+					"src": "assets/thumbs/enforcer.png",
+					"width": 56,
+					"height": 64
+				}
+			}
+		},
+		{
+			"name": "Bandit",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Bandit",
+				"img": {
+					"src": "assets/imgs/bandit.png",
+					"width": 54,
+					"height": 148
+				},
+				"thumb": {
+					"src": "assets/thumbs/bandit.png",
+					"width": 54,
+					"height": 64
+				}
+			}
+		},
+		{
+			"name": "Huntress",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Huntress",
+				"img": {
+					"src": "assets/imgs/huntress.png",
+					"width": 56,
+					"height": 148
+				},
+				"thumb": {
+					"src": "assets/thumbs/huntress.png",
+					"width": 56,
+					"height": 64
+				}
+			}
+		},
+		{
+			"name": "HAN-D",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/HAN-D",
+				"img": {
+					"src": "assets/imgs/han-d.png",
+					"width": 96,
+					"height": 148
+				},
+				"thumb": {
+					"src": "assets/thumbs/han-d.png",
+					"width": 64,
+					"height": 64
+				}
+			}
+		},
+		{
+			"name": "Engineer",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Engineer",
+				"img": {
+					"src": "assets/imgs/engineer.png",
+					"width": 56,
+					"height": 148
+				},
+				"thumb": {
+					"src": "assets/thumbs/engineer.png",
+					"width": 56,
+					"height": 64
+				}
+			}
+		},
+		{
+			"name": "Miner",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Miner",
+				"img": {
+					"src": "assets/imgs/miner.png",
+					"width": 56,
+					"height": 148
+				},
+				"thumb": {
+					"src": "assets/thumbs/miner.png",
+					"width": 56,
+					"height": 64
+				}
+			}
+		},
+		{
+			"name": "Sniper",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Sniper",
+				"img": {
+					"src": "assets/imgs/sniper.png",
+					"width": 54,
+					"height": 148
+				},
+				"thumb": {
+					"src": "assets/thumbs/sniper.png",
+					"width": 54,
+					"height": 64
+				}
+			}
+		},
+		{
+			"name": "Acrid",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Acrid",
+				"img": {
+					"src": "assets/imgs/acrid.png",
+					"width": 56,
+					"height": 148
+				},
+				"thumb": {
+					"src": "assets/thumbs/acrid.png",
+					"width": 56,
+					"height": 64
+				}
+			}
+		},
+		{
+			"name": "Mercenary",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Mercenary",
+				"img": {
+					"src": "assets/imgs/mercenary.png",
+					"width": 56,
+					"height": 148
+				},
+				"thumb": {
+					"src": "assets/thumbs/mercenary.png",
+					"width": 56,
+					"height": 64
+				}
+			}
+		},
+		{
+			"name": "Loader",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Loader",
+				"img": {
+					"src": "assets/imgs/loader.png",
+					"width": 54,
+					"height": 148
+				},
+				"thumb": {
+					"src": "assets/thumbs/loader.png",
+					"width": 54,
+					"height": 64
+				}
+			}
+		},
+		{
+			"name": "CHEF",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/CHEF",
+				"img": {
+					"src": "assets/imgs/chef.png",
+					"width": 48,
+					"height": 148
+				},
+				"thumb": {
+					"src": "assets/thumbs/chef.png",
+					"width": 48,
+					"height": 64
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Risk of Rain - Items",
+	"logo": {
+		"src": "assets/soldier-s-syringe.png",
+		"object-fit": "cover",
+		"pixelated": true
+	}
+}

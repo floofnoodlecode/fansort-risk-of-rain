@@ -1,0 +1,29 @@
+{% assign props = __item__.props %}
+
+<div class="text-center border border-1 rounded-1 border-dark">
+	<a href="{{props.url}}">
+		<h6 class="fs-6 mb-0 pe-1 ps-1">{{__item__.name}}</h6>
+	</a>
+	<div class="bg-dark">
+		{% if props.img.first %}
+			{% assign imgs = "" | split %}
+			{% assign imgs = props.img | concat: imgs %}
+		{% else %}
+			{% assign imgs = props.img %}
+		{% endif %}
+
+		{% for img in imgs %}
+			<div><img src="{{img.src}}" width="{{img.width}}" height="{{img.height}}"/></div>
+		{% endfor %}
+	</div>
+	{% if props.fields %}
+		<table class="table table-sm small mb-0"><tbody>
+			{% for field in props.fields %}
+				<tr>
+					<th scope="row" class="text-capitalize">{{field[0]}}</th>
+					<td>{{field[1]}}</td>
+				</tr>
+			{% endfor %}
+		</table>
+	{% endif %}
+</div>

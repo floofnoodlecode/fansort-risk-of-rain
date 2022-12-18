@@ -1,0 +1,8 @@
+{
+	"title": "Risk of Rain - Survivors",
+	"logo": {
+		"src": "assets/thumbs/commando.png",
+		"object-fit": "cover",
+		"pixelated": true
+	}
+}

@@ -1,0 +1,821 @@
+{
+	"rankings": [
+		{
+			"title": "Risk of Rain - Enemies Difficulty",
+			"state": "BUDHEQARFLU557xCDZShvYez-Z0aT9qSAQPpKJR_ZDHh-8HfcC_HuuFq3LyPyMq8w1m7ig19mwA"
+		}
+	],
+	"items": [
+		{
+			"name": "Lemurian",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Lemurian",
+				"img": [
+					{
+						"src": "assets/portraits/lemurian.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/lemurian.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/lemurian.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Rock Golem",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Rock_Golem",
+				"img": [
+					{
+						"src": "assets/portraits/rock-golem.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/rock-golem.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/rock-golem.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Wisp",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Wisp",
+				"img": [
+					{
+						"src": "assets/portraits/wisp.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/wisp.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/wisp.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Greater Wisp",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Greater_Wisp",
+				"img": [
+					{
+						"src": "assets/portraits/greater-wisp.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/greater-wisp.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/greater-wisp.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Sand Crab",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Sand_Crab",
+				"img": [
+					{
+						"src": "assets/portraits/sand-crab.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/sand-crab.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/sand-crab.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Jellyfish",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Jellyfish",
+				"img": [
+					{
+						"src": "assets/portraits/jellyfish.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/jellyfish.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/jellyfish.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Child",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Child",
+				"img": [
+					{
+						"src": "assets/portraits/child.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/child.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/child.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Spitter",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Spitter",
+				"img": [
+					{
+						"src": "assets/portraits/spitter.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/spitter.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/spitter.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Tiny Imp",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Tiny_Imp",
+				"img": [
+					{
+						"src": "assets/portraits/tiny-imp.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/tiny-imp.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/tiny-imp.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Black Imp",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Black_Imp",
+				"img": [
+					{
+						"src": "assets/portraits/black-imp.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/black-imp.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/black-imp.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Mushrum",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Mushrum",
+				"img": [
+					{
+						"src": "assets/portraits/mushrum.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/mushrum.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/mushrum.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Whorl",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Whorl",
+				"img": [
+					{
+						"src": "assets/portraits/whorl.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/whorl.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/whorl.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Clay Man",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Clay_Man",
+				"img": [
+					{
+						"src": "assets/portraits/clay-man.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/clay-man.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/clay-man.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Bighorn Bison",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Bighorn_Bison",
+				"img": [
+					{
+						"src": "assets/portraits/bighorn-bison.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/bighorn-bison.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/bighorn-bison.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Mechanical Spider",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Mechanical_Spider",
+				"img": [
+					{
+						"src": "assets/portraits/mechanical-spider.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/mechanical-spider.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/mechanical-spider.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Gup",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Gup",
+				"img": [
+					{
+						"src": "assets/portraits/gup.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/gup.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/gup.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Parent",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Parent",
+				"img": [
+					{
+						"src": "assets/portraits/parent.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/parent.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/parent.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Evolved Lemurian",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Evolved_Lemurian",
+				"img": [
+					{
+						"src": "assets/portraits/evolved-lemurian.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/evolved-lemurian.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/evolved-lemurian.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Temple Guard",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Temple_Guard",
+				"img": [
+					{
+						"src": "assets/portraits/temple-guard.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/temple-guard.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/temple-guard.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Elder Lemurian",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Elder_Lemurian",
+				"img": [
+					{
+						"src": "assets/portraits/elder-lemurian.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/elder-lemurian.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/elder-lemurian.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Archer Bug",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Archer_Bug",
+				"img": [
+					{
+						"src": "assets/portraits/archer-bug.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/archer-bug.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/archer-bug.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Monster"
+				}
+			}
+		},
+		{
+			"name": "Colossus",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Colossus",
+				"img": [
+					{
+						"src": "assets/portraits/colossus.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/colossus.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/colossus.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Boss"
+				}
+			}
+		},
+		{
+			"name": "Wandering Vagrant",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Wandering_Vagrant",
+				"img": [
+					{
+						"src": "assets/portraits/wandering-vagrant.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/wandering-vagrant.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/wandering-vagrant.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Boss"
+				}
+			}
+		},
+		{
+			"name": "Magma Worm",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Magma_Worm",
+				"img": [
+					{
+						"src": "assets/portraits/magma-worm.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/magma-worm.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/magma-worm.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Boss"
+				}
+			}
+		},
+		{
+			"name": "Ancient Wisp",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Ancient_Wisp",
+				"img": [
+					{
+						"src": "assets/portraits/ancient-wisp.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/ancient-wisp.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/ancient-wisp.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Boss"
+				}
+			}
+		},
+		{
+			"name": "Imp Overlord",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Imp_Overlord",
+				"img": [
+					{
+						"src": "assets/portraits/imp-overlord.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/imp-overlord.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/imp-overlord.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Boss"
+				}
+			}
+		},
+		{
+			"name": "Ifrit",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Ifrit",
+				"img": [
+					{
+						"src": "assets/portraits/ifrit.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/ifrit.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/ifrit.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Boss"
+				}
+			}
+		},
+		{
+			"name": "Toxic Beast",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Toxic_Beast",
+				"img": [
+					{
+						"src": "assets/portraits/toxic-beast.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/toxic-beast.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/toxic-beast.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Boss"
+				}
+			}
+		},
+		{
+			"name": "Cremator",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Cremator",
+				"img": [
+					{
+						"src": "assets/portraits/cremator.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/cremator.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/cremator.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Boss"
+				}
+			}
+		},
+		{
+			"name": "Scavenger",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Scavenger",
+				"img": [
+					{
+						"src": "assets/portraits/scavenger.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/scavenger.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/scavenger.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Boss"
+				}
+			}
+		},
+		{
+			"name": "Providence",
+			"props": {
+				"url": "https://riskofrain.fandom.com/wiki/Providence",
+				"img": [
+					{
+						"src": "assets/portraits/providence.png",
+						"width": 239,
+						"height": 239
+					},
+					{
+						"src": "assets/anims/providence.gif",
+						"width": 66,
+						"height": 66
+					}
+				],
+				"thumb": {
+					"src": "assets/thumbs/providence.png",
+					"width": 66,
+					"height": 66
+				},
+				"fields": {
+					"Type": "Boss"
+				}
+			}
+		}
+	],
+	"attrs": [
+		{
+			"pointer": "/props/fields/Type"
+		}
+	]
+}
