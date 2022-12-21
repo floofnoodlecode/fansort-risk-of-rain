@@ -1,7 +1,9 @@
 {
 	"title": "Risk of Rain - Artifacts",
-	"logo": {
-		"src": "logo.png",
-		"pixelated": true
+	"props": {
+		"logo": {
+			"src": "logo.png",
+			"style": "object-fit: cover"
+		}
 	}
 }

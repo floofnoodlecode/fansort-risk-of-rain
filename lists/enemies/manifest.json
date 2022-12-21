@@ -1,8 +1,9 @@
 {
 	"title": "Risk of Rain - Enemies",
-	"logo": {
-		"src": "assets/thumbs/wandering-vagrant.png",
-		"object-fit": "cover",
-		"pixelated": true
+	"props": {
+		"logo": {
+			"src": "assets/thumbs/wandering-vagrant.png",
+			"style": "object-fit: cover"
+		}
 	}
 }

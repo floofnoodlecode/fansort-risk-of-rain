@@ -1,8 +1,8 @@
-{% assign props = __item__.props %}
+{% assign props = item.props %}
 
 <div class="text-center border border-1 rounded-1 border-dark">
 	<a href="{{props.url}}">
-		<h6 class="fs-6 mb-0 pe-1 ps-1">{{__item__.name}}</h6>
+		<h6 class="fs-6 mb-0 pe-1 ps-1">{{item.name}}</h6>
 	</a>
 	<div class="bg-black">
 		<img src="{{props.img.src}}"
