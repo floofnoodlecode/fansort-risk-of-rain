@@ -8,6 +8,9 @@
 	"items": [
 		{
 			"name": "Lemurian",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Lemurian",
 				"img": [
@@ -26,14 +29,14 @@
 					"src": "assets/thumbs/lemurian.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Rock Golem",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Rock_Golem",
 				"img": [
@@ -52,14 +55,14 @@
 					"src": "assets/thumbs/rock-golem.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Wisp",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Wisp",
 				"img": [
@@ -78,14 +81,14 @@
 					"src": "assets/thumbs/wisp.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Greater Wisp",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Greater_Wisp",
 				"img": [
@@ -104,14 +107,14 @@
 					"src": "assets/thumbs/greater-wisp.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Sand Crab",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Sand_Crab",
 				"img": [
@@ -130,14 +133,14 @@
 					"src": "assets/thumbs/sand-crab.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Jellyfish",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Jellyfish",
 				"img": [
@@ -156,14 +159,14 @@
 					"src": "assets/thumbs/jellyfish.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Child",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Child",
 				"img": [
@@ -182,14 +185,14 @@
 					"src": "assets/thumbs/child.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Spitter",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Spitter",
 				"img": [
@@ -208,14 +211,14 @@
 					"src": "assets/thumbs/spitter.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Tiny Imp",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Tiny_Imp",
 				"img": [
@@ -234,14 +237,14 @@
 					"src": "assets/thumbs/tiny-imp.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Black Imp",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Black_Imp",
 				"img": [
@@ -260,14 +263,14 @@
 					"src": "assets/thumbs/black-imp.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Mushrum",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Mushrum",
 				"img": [
@@ -286,14 +289,14 @@
 					"src": "assets/thumbs/mushrum.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Whorl",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Whorl",
 				"img": [
@@ -312,14 +315,14 @@
 					"src": "assets/thumbs/whorl.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Clay Man",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Clay_Man",
 				"img": [
@@ -338,14 +341,14 @@
 					"src": "assets/thumbs/clay-man.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Bighorn Bison",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Bighorn_Bison",
 				"img": [
@@ -364,14 +367,14 @@
 					"src": "assets/thumbs/bighorn-bison.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Mechanical Spider",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Mechanical_Spider",
 				"img": [
@@ -390,14 +393,14 @@
 					"src": "assets/thumbs/mechanical-spider.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Gup",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Gup",
 				"img": [
@@ -416,14 +419,14 @@
 					"src": "assets/thumbs/gup.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Parent",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Parent",
 				"img": [
@@ -442,14 +445,14 @@
 					"src": "assets/thumbs/parent.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Evolved Lemurian",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Evolved_Lemurian",
 				"img": [
@@ -468,14 +471,14 @@
 					"src": "assets/thumbs/evolved-lemurian.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Temple Guard",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Temple_Guard",
 				"img": [
@@ -494,14 +497,14 @@
 					"src": "assets/thumbs/temple-guard.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Elder Lemurian",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Elder_Lemurian",
 				"img": [
@@ -520,14 +523,14 @@
 					"src": "assets/thumbs/elder-lemurian.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Archer Bug",
+			"attrs": {
+				"Type": "Monster"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Archer_Bug",
 				"img": [
@@ -546,14 +549,14 @@
 					"src": "assets/thumbs/archer-bug.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Monster"
 				}
 			}
 		},
 		{
 			"name": "Colossus",
+			"attrs": {
+				"Type": "Boss"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Colossus",
 				"img": [
@@ -572,14 +575,14 @@
 					"src": "assets/thumbs/colossus.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Boss"
 				}
 			}
 		},
 		{
 			"name": "Wandering Vagrant",
+			"attrs": {
+				"Type": "Boss"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Wandering_Vagrant",
 				"img": [
@@ -598,14 +601,14 @@
 					"src": "assets/thumbs/wandering-vagrant.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Boss"
 				}
 			}
 		},
 		{
 			"name": "Magma Worm",
+			"attrs": {
+				"Type": "Boss"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Magma_Worm",
 				"img": [
@@ -624,14 +627,14 @@
 					"src": "assets/thumbs/magma-worm.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Boss"
 				}
 			}
 		},
 		{
 			"name": "Ancient Wisp",
+			"attrs": {
+				"Type": "Boss"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Ancient_Wisp",
 				"img": [
@@ -650,14 +653,14 @@
 					"src": "assets/thumbs/ancient-wisp.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Boss"
 				}
 			}
 		},
 		{
 			"name": "Imp Overlord",
+			"attrs": {
+				"Type": "Boss"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Imp_Overlord",
 				"img": [
@@ -676,14 +679,14 @@
 					"src": "assets/thumbs/imp-overlord.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Boss"
 				}
 			}
 		},
 		{
 			"name": "Ifrit",
+			"attrs": {
+				"Type": "Boss"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Ifrit",
 				"img": [
@@ -702,14 +705,14 @@
 					"src": "assets/thumbs/ifrit.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Boss"
 				}
 			}
 		},
 		{
 			"name": "Toxic Beast",
+			"attrs": {
+				"Type": "Boss"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Toxic_Beast",
 				"img": [
@@ -728,14 +731,14 @@
 					"src": "assets/thumbs/toxic-beast.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Boss"
 				}
 			}
 		},
 		{
 			"name": "Cremator",
+			"attrs": {
+				"Type": "Boss"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Cremator",
 				"img": [
@@ -754,14 +757,14 @@
 					"src": "assets/thumbs/cremator.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Boss"
 				}
 			}
 		},
 		{
 			"name": "Scavenger",
+			"attrs": {
+				"Type": "Boss"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Scavenger",
 				"img": [
@@ -780,14 +783,14 @@
 					"src": "assets/thumbs/scavenger.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Boss"
 				}
 			}
 		},
 		{
 			"name": "Providence",
+			"attrs": {
+				"Type": "Boss"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Providence",
 				"img": [
@@ -806,16 +809,8 @@
 					"src": "assets/thumbs/providence.png",
 					"width": 66,
 					"height": 66
-				},
-				"fields": {
-					"Type": "Boss"
 				}
 			}
-		}
-	],
-	"attrs": [
-		{
-			"pointer": "/props/fields/Type"
 		}
 	]
 }

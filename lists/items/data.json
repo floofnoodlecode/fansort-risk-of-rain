@@ -12,6 +12,10 @@
 	"items": [
 		{
 			"name": "AtG Missile Mk. 1",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/AtG_Missile_Mk._1",
 				"img": {
@@ -21,14 +25,16 @@
 				},
 				"fields": {
 					"Description": "(10%) On hit: A 10% chance of firing a missile that deals 300% damage",
-					"Stacking": "+10% chance to fire missiles",
-					"Rarity": "Uncommon",
-					"Type": "Damage"
+					"Stacking": "+10% chance to fire missiles"
 				}
 			}
 		},
 		{
 			"name": "AtG Missile Mk. 2",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/AtG_Missile_Mk._2",
 				"img": {
@@ -38,14 +44,16 @@
 				},
 				"fields": {
 					"Description": "(7%) On hit: A 7% chance on hitting an enemy to fire three missiles that deal 3x300% damage",
-					"Stacking": "+7% chance to fire missiles.",
-					"Rarity": "Rare",
-					"Type": "Damage"
+					"Stacking": "+7% chance to fire missiles."
 				}
 			}
 		},
 		{
 			"name": "Barbed Wire",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Barbed_Wire",
 				"img": {
@@ -55,14 +63,16 @@
 				},
 				"fields": {
 					"Description": "Touching enemies deals 50% more damage/sec.",
-					"Stacking": "+20% larger radius. Decreasing increase in damage per stack start at ~+17% damage/sec.",
-					"Rarity": "Common",
-					"Type": "Damage"
+					"Stacking": "+20% larger radius. Decreasing increase in damage per stack start at ~+17% damage/sec."
 				}
 			}
 		},
 		{
 			"name": "Boxing Gloves",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Boxing_Gloves",
 				"img": {
@@ -72,14 +82,16 @@
 				},
 				"fields": {
 					"Description": "(6%) On hit: Hitting enemies have a 15% chance to knock them back.",
-					"Stacking": "6% multiplicatively increase in knockback chance",
-					"Rarity": "Uncommon",
-					"Type": "Damage"
+					"Stacking": "6% multiplicatively increase in knockback chance"
 				}
 			}
 		},
 		{
 			"name": "Brilliant Behemoth",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Brilliant_Behemoth",
 				"img": {
@@ -89,14 +101,16 @@
 				},
 				"fields": {
 					"Description": "All your attacks explode for a bonus 20% damage to nearby enemies",
-					"Stacking": "+20% damage.",
-					"Rarity": "Rare",
-					"Type": "Damage"
+					"Stacking": "+20% damage."
 				}
 			}
 		},
 		{
 			"name": "Burning Witness",
+			"attrs": {
+				"Rarity": "Boss",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Burning_Witness",
 				"img": {
@@ -106,14 +120,16 @@
 				},
 				"fields": {
 					"Description": "On kill: Grants a firetrail, 5% movement speed, and 1 damage for 6 seconds.",
-					"Stacking": "+5% movement speed, increases duration",
-					"Rarity": "Boss",
-					"Type": "Damage"
+					"Stacking": "+5% movement speed, increases duration"
 				}
 			}
 		},
 		{
 			"name": "Ceremonial Dagger",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Ceremonial_Dagger",
 				"img": {
@@ -123,14 +139,16 @@
 				},
 				"fields": {
 					"Description": "On kill: Upon killing an enemy fire out 4 heat-seeking bolts that deal 100% damage.",
-					"Stacking": "Fires +2 additional bolts.",
-					"Rarity": "Rare",
-					"Type": "Damage"
+					"Stacking": "Fires +2 additional bolts."
 				}
 			}
 		},
 		{
 			"name": "Chargefield Generator",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Chargefield_Generator",
 				"img": {
@@ -140,14 +158,16 @@
 				},
 				"fields": {
 					"Description": "On kill: Killing an enemy generates a lightning ring, dealing 100% damage/sec for 6 seconds.",
-					"Stacking": "+10% damage/sec",
-					"Rarity": "Uncommon",
-					"Type": "Damage"
+					"Stacking": "+10% damage/sec"
 				}
 			}
 		},
 		{
 			"name": "Crowbar",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Crowbar",
 				"img": {
@@ -157,14 +177,16 @@
 				},
 				"fields": {
 					"Description": "On hit: Deal +50% damage to enemies above 80% health.",
-					"Stacking": "+30% damage.",
-					"Rarity": "Common",
-					"Type": "Damage"
+					"Stacking": "+30% damage."
 				}
 			}
 		},
 		{
 			"name": "Fireman's Boots",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Fireman%27s_Boots",
 				"img": {
@@ -174,14 +196,16 @@
 				},
 				"fields": {
 					"Description": "Walking leaves behind a fire trail that burns for 35% damage.",
-					"Stacking": "+20% damage.",
-					"Rarity": "Rare",
-					"Type": "Damage"
+					"Stacking": "+20% damage."
 				}
 			}
 		},
 		{
 			"name": "Gasoline",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Gasoline",
 				"img": {
@@ -191,14 +215,16 @@
 				},
 				"fields": {
 					"Description": "On kill: Killing enemies burns the ground for 60% damage for 2 seconds",
-					"Stacking": "+40% damage.",
-					"Rarity": "Common",
-					"Type": "Damage"
+					"Stacking": "+40% damage."
 				}
 			}
 		},
 		{
 			"name": "Golden Gun",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Golden_Gun",
 				"img": {
@@ -208,14 +234,16 @@
 				},
 				"fields": {
 					"Description": "Deals bonus damage per gold, up to 40% damage at 700 gold. Scales with time.",
-					"Stacking": "Halves the gold required for max damage.",
-					"Rarity": "Uncommon",
-					"Type": "Damage"
+					"Stacking": "Halves the gold required for max damage."
 				}
 			}
 		},
 		{
 			"name": "Headstompers",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Headstompers",
 				"img": {
@@ -225,14 +253,16 @@
 				},
 				"fields": {
 					"Description": "Hurt enemies by falling for up to 507% damage.",
-					"Stacking": "Increases max damage.",
-					"Rarity": "Common",
-					"Type": "Damage"
+					"Stacking": "Increases max damage."
 				}
 			}
 		},
 		{
 			"name": "Heaven Cracker",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Heaven_Cracker",
 				"img": {
@@ -242,14 +272,16 @@
 				},
 				"fields": {
 					"Description": "Every 4 basic attacks pierce through enemies for 100% damage.Stackable up to 4.",
-					"Stacking": "Reduce attacks required by 1 per additional Heaven Cracker. Pierces every attack at 4 stacks",
-					"Rarity": "Rare",
-					"Type": "Damage"
+					"Stacking": "Reduce attacks required by 1 per additional Heaven Cracker. Pierces every attack at 4 stacks"
 				}
 			}
 		},
 		{
 			"name": "Hyper-Threader",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Hyper-Threader",
 				"img": {
@@ -259,14 +291,16 @@
 				},
 				"fields": {
 					"Description": "On hit: Every attack fires a horizontal laser originating from the player character, dealing 40% damage and bouncing to 2 enemies.",
-					"Stacking": "+1 additional bounce.",
-					"Rarity": "Rare",
-					"Type": "Damage"
+					"Stacking": "+1 additional bounce."
 				}
 			}
 		},
 		{
 			"name": "Ifrit's Horn",
+			"attrs": {
+				"Rarity": "Boss",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Ifrit%27s_Horn",
 				"img": {
@@ -276,14 +310,16 @@
 				},
 				"fields": {
 					"Description": "(8%) On hit: 8% chance to incinerate enemies for 220% damage",
-					"Stacking": "+30% damage.",
-					"Rarity": "Boss",
-					"Type": "Damage"
+					"Stacking": "+30% damage."
 				}
 			}
 		},
 		{
 			"name": "Legendary Spark",
+			"attrs": {
+				"Rarity": "Boss",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Legendary_Spark",
 				"img": {
@@ -293,14 +329,16 @@
 				},
 				"fields": {
 					"Description": "(8%) On hit: 8% chance to smite enemies for 200% damage",
-					"Stacking": "+1 spark.",
-					"Rarity": "Boss",
-					"Type": "Damage"
+					"Stacking": "+1 spark."
 				}
 			}
 		},
 		{
 			"name": "Mortar Tube",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Mortar_Tube",
 				"img": {
@@ -310,14 +348,16 @@
 				},
 				"fields": {
 					"Description": "(9%) On hit: 9% chance to fire a mortar for 170% damage",
-					"Stacking": "+170% damage.",
-					"Rarity": "Common",
-					"Type": "Damage"
+					"Stacking": "+170% damage."
 				}
 			}
 		},
 		{
 			"name": "Plasma Chain",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Plasma_Chain",
 				"img": {
@@ -327,14 +367,16 @@
 				},
 				"fields": {
 					"Description": "(?%) On hit: Chance to tether onto enemies dealing 60% damage per second",
-					"Stacking": "Max tethers increased.",
-					"Rarity": "Rare",
-					"Type": "Damage"
+					"Stacking": "Max tethers increased."
 				}
 			}
 		},
 		{
 			"name": "Predatory Instincts",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Predatory_Instincts",
 				"img": {
@@ -344,14 +386,16 @@
 				},
 				"fields": {
 					"Description": "On crit: Critical strikes increase attack speed by 10%. Stacks up to 30%.",
-					"Stacking": "+5% crit chance.Further increase 1% attack speed increment on crit strikes.",
-					"Rarity": "Uncommon",
-					"Type": "Damage"
+					"Stacking": "+5% crit chance.Further increase 1% attack speed increment on crit strikes."
 				}
 			}
 		},
 		{
 			"name": "Rusty Knife",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Rusty_Knife",
 				"img": {
@@ -361,14 +405,16 @@
 				},
 				"fields": {
 					"Description": "(15%) On hit: 15% chance to bleed an enemy for 4x35% damage.",
-					"Stacking": "15% extra chance to bleed (Non linear stacking), does not stack damage.",
-					"Rarity": "Common",
-					"Type": "Damage"
+					"Stacking": "15% extra chance to bleed (Non linear stacking), does not stack damage."
 				}
 			}
 		},
 		{
 			"name": "Shattering Justice",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Shattering_Justice",
 				"img": {
@@ -378,14 +424,16 @@
 				},
 				"fields": {
 					"Description": "On hit: Attacks reduce enemy armor by 5. Reduction stacks up to 25.",
-					"Stacking": "Increases debuff length by 0.5 seconds.",
-					"Rarity": "Rare",
-					"Type": "Damage"
+					"Stacking": "Increases debuff length by 0.5 seconds."
 				}
 			}
 		},
 		{
 			"name": "Sticky Bomb",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Sticky_Bomb",
 				"img": {
@@ -395,14 +443,16 @@
 				},
 				"fields": {
 					"Description": "(8%) On hit: 8% chance to attach a bomb to an enemy, detonating for 140% damage.",
-					"Stacking": "+40% damage.",
-					"Rarity": "Common",
-					"Type": "Damage"
+					"Stacking": "+40% damage."
 				}
 			}
 		},
 		{
 			"name": "Telescopic Sight",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Telescopic_Sight",
 				"img": {
@@ -412,14 +462,16 @@
 				},
 				"fields": {
 					"Description": "(1%) On hit: 1% chance to instantly kill an enemy.",
-					"Stacking": "+0.5% proc chance up to a maximum of 3%.",
-					"Rarity": "Rare",
-					"Type": "Damage"
+					"Stacking": "+0.5% proc chance up to a maximum of 3%."
 				}
 			}
 		},
 		{
 			"name": "Tesla Coil",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Tesla_Coil",
 				"img": {
@@ -429,14 +481,16 @@
 				},
 				"fields": {
 					"Description": "Shock nearby enemies for 150% damage.",
-					"Stacking": "+50% damage.",
-					"Rarity": "Rare",
-					"Type": "Damage"
+					"Stacking": "+50% damage."
 				}
 			}
 		},
 		{
 			"name": "Thallium",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Thallium",
 				"img": {
@@ -446,14 +500,16 @@
 				},
 				"fields": {
 					"Description": "(10%) On hit: Damage/slow by 500 enemy damage% and 100% speed over 3 seconds.",
-					"Stacking": "Does NOT stack",
-					"Rarity": "Rare",
-					"Type": "Damage"
+					"Stacking": "Does NOT stack"
 				}
 			}
 		},
 		{
 			"name": "The Ol’ Lopper",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/The_Ol%27_Lopper",
 				"img": {
@@ -463,14 +519,16 @@
 				},
 				"fields": {
 					"Description": "On hit: 100% critical chance on enemies below 9% health.",
-					"Stacking": "+4% health threshold, up to a cap of 35% health at 8 stacks",
-					"Rarity": "Rare",
-					"Type": "Damage"
+					"Stacking": "+4% health threshold, up to a cap of 35% health at 8 stacks"
 				}
 			}
 		},
 		{
 			"name": "Toxic Worm",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Toxic_Worm",
 				"img": {
@@ -480,14 +538,16 @@
 				},
 				"fields": {
 					"Description": "Infect enemies, dealing 100% damage/sec for 5.5 seconds. Bounces to other enemies on death.",
-					"Stacking": "Decreases cooldown",
-					"Rarity": "Uncommon",
-					"Type": "Damage"
+					"Stacking": "Decreases cooldown"
 				}
 			}
 		},
 		{
 			"name": "Ukulele",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Ukulele",
 				"img": {
@@ -497,14 +557,16 @@
 				},
 				"fields": {
 					"Description": "(20%) On hit: 20% chance to fire chain lighting for 4x33% damage",
-					"Stacking": "+33% damage per bounce.",
-					"Rarity": "Uncommon",
-					"Type": "Damage"
+					"Stacking": "+33% damage per bounce."
 				}
 			}
 		},
 		{
 			"name": "Will-o'-the-wisp",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Will-o%27-the-wisp",
 				"img": {
@@ -514,14 +576,16 @@
 				},
 				"fields": {
 					"Description": "(33%) On kill: 33% chance on killing an enemy to create a lava pillar for 500% damage.",
-					"Stacking": "Increases damage of the lava pillar.",
-					"Rarity": "Uncommon",
-					"Type": "Damage"
+					"Stacking": "Increases damage of the lava pillar."
 				}
 			}
 		},
 		{
 			"name": "Bundle of Fireworks",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Bundle_of_Fireworks",
 				"img": {
@@ -531,14 +595,16 @@
 				},
 				"fields": {
 					"Description": "Fire 8 fireworks that deal 300% damage.",
-					"Stacking": "+2 Fireworks per stack, fireworks do additional damage.",
-					"Rarity": "Common",
-					"Type": "Damage"
+					"Stacking": "+2 Fireworks per stack, fireworks do additional damage."
 				}
 			}
 		},
 		{
 			"name": "Frost Relic",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Frost_Relic",
 				"img": {
@@ -548,14 +614,16 @@
 				},
 				"fields": {
 					"Description": "On kill: Killing an enemy surrounds you with 3 icicles that deal 3x33% damage.",
-					"Stacking": "+1 additional icicle.",
-					"Rarity": "Uncommon",
-					"Type": "Damage"
+					"Stacking": "+1 additional icicle."
 				}
 			}
 		},
 		{
 			"name": "Laser Turbine",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Damage"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Laser_Turbine",
 				"img": {
@@ -565,14 +633,16 @@
 				},
 				"fields": {
 					"Description": "All your attacks charge the generator. At full power, fire a laser for 2000% damage.",
-					"Stacking": "Increases charge amount per ability use.",
-					"Rarity": "Rare",
-					"Type": "Damage"
+					"Stacking": "Increases charge amount per ability use."
 				}
 			}
 		},
 		{
 			"name": "Bitter Root",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Bitter_Root",
 				"img": {
@@ -582,14 +652,16 @@
 				},
 				"fields": {
 					"Description": "Gain 8% max hp",
-					"Stacking": "Further gain 8% max hp, up to 38 stacks (300% extra HP)",
-					"Rarity": "Common",
-					"Type": "Healing"
+					"Stacking": "Further gain 8% max hp, up to 38 stacks (300% extra HP)"
 				}
 			}
 		},
 		{
 			"name": "Bustling Fungus",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Bustling_Fungus",
 				"img": {
@@ -599,14 +671,16 @@
 				},
 				"fields": {
 					"Description": "After 2 seconds, heal for 4.5% of your health every second.",
-					"Stacking": "4.5% More Healing",
-					"Rarity": "Common",
-					"Type": "Healing"
+					"Stacking": "4.5% More Healing"
 				}
 			}
 		},
 		{
 			"name": "Colossal Knurl",
+			"attrs": {
+				"Rarity": "Boss",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Colossal_Knurl",
 				"img": {
@@ -616,14 +690,16 @@
 				},
 				"fields": {
 					"Description": "Increase health by 40, health regeneration by 1.2/second, and armor by 6.",
-					"Stacking": "+40 health, +1.2 regen, +6 armor.",
-					"Rarity": "Boss",
-					"Type": "Healing"
+					"Stacking": "+40 health, +1.2 regen, +6 armor."
 				}
 			}
 		},
 		{
 			"name": "Dead Man's Foot",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Dead_Man%27s_Foot",
 				"img": {
@@ -633,14 +709,16 @@
 				},
 				"fields": {
 					"Description": "When at low heath: Drop a poison mine at low health for 4x150% damage.",
-					"Stacking": "+1 poison tick.",
-					"Rarity": "Uncommon",
-					"Type": "Healing"
+					"Stacking": "+1 poison tick."
 				}
 			}
 		},
 		{
 			"name": "Dio's Best Friend",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Dio%27s_Best_Friend",
 				"img": {
@@ -650,14 +728,16 @@
 				},
 				"fields": {
 					"Description": "On death: Taking fatal damage revives you to 40% health. Invincible for 2 seconds.",
-					"Stacking": "Can not be stacked for multiple revives, but if the revive effect has been used picking up another will reset it.",
-					"Rarity": "Rare",
-					"Type": "Healing"
+					"Stacking": "Can not be stacked for multiple revives, but if the revive effect has been used picking up another will reset it."
 				}
 			}
 		},
 		{
 			"name": "Guardian's Heart",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Guardian%27s_Heart",
 				"img": {
@@ -667,14 +747,16 @@
 				},
 				"fields": {
 					"Description": "Gain a 60 health shield. Recharges in 7 seconds.",
-					"Stacking": "+60 Shield",
-					"Rarity": "Uncommon",
-					"Type": "Healing"
+					"Stacking": "+60 Shield"
 				}
 			}
 		},
 		{
 			"name": "Harvester's Scythe",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Harvester%27s_Scythe",
 				"img": {
@@ -684,14 +766,16 @@
 				},
 				"fields": {
 					"Description": "On crit: Gain 5% critical chance. Critical strikes heal for 8 health.",
-					"Stacking": "+5% critical chance and +2 health on a critical strike.",
-					"Rarity": "Uncommon",
-					"Type": "Healing"
+					"Stacking": "+5% critical chance and +2 health on a critical strike."
 				}
 			}
 		},
 		{
 			"name": "Infusion",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Infusion",
 				"img": {
@@ -701,14 +785,16 @@
 				},
 				"fields": {
 					"Description": "On kill: Killing an enemy increases your health permanently by 1.",
-					"Stacking": "+0.5 health on kill.",
-					"Rarity": "Uncommon",
-					"Type": "Healing"
+					"Stacking": "+0.5 health on kill."
 				}
 			}
 		},
 		{
 			"name": "Leeching Seed",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Leeching_Seed",
 				"img": {
@@ -718,14 +804,16 @@
 				},
 				"fields": {
 					"Description": "On hit: Dealing damage heals you for 2 health.",
-					"Stacking": "+1 health on hit.",
-					"Rarity": "Uncommon",
-					"Type": "Healing"
+					"Stacking": "+1 health on hit."
 				}
 			}
 		},
 		{
 			"name": "Meat Nugget",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Meat_Nugget",
 				"img": {
@@ -735,14 +823,16 @@
 				},
 				"fields": {
 					"Description": "(8%) On hit: 8% chance to drop 2 meat nuggets that heals for 2x6 health.",
-					"Stacking": "+6 health per meat nugget.",
-					"Rarity": "Common",
-					"Type": "Healing"
+					"Stacking": "+6 health per meat nugget."
 				}
 			}
 		},
 		{
 			"name": "Medkit",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Medkit",
 				"img": {
@@ -752,14 +842,16 @@
 				},
 				"fields": {
 					"Description": "Heal for 10 health after 1.1 seconds of getting hit.",
-					"Stacking": "Each additional Medkit increases the heal by 10.",
-					"Rarity": "Common",
-					"Type": "Healing"
+					"Stacking": "Each additional Medkit increases the heal by 10."
 				}
 			}
 		},
 		{
 			"name": "Monster Tooth",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Monster_Tooth",
 				"img": {
@@ -769,14 +861,16 @@
 				},
 				"fields": {
 					"Description": "On kill: Killing an enemy heals you for 10 health.",
-					"Stacking": "+5 more health after kill.",
-					"Rarity": "Common",
-					"Type": "Healing"
+					"Stacking": "+5 more health after kill."
 				}
 			}
 		},
 		{
 			"name": "Mysterious Vial",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Mysterious_Vial",
 				"img": {
@@ -786,14 +880,16 @@
 				},
 				"fields": {
 					"Description": "Increase health regeneration by 1.2 per second",
-					"Stacking": "+1.2 health per second.",
-					"Rarity": "Common",
-					"Type": "Healing"
+					"Stacking": "+1.2 health per second."
 				}
 			}
 		},
 		{
 			"name": "Panic Mines",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Panic_Mines",
 				"img": {
@@ -803,14 +899,16 @@
 				},
 				"fields": {
 					"Description": "When at low heath: Drop a mine at low health for 500% damage.",
-					"Stacking": "+1 mines dropped",
-					"Rarity": "Uncommon",
-					"Type": "Healing"
+					"Stacking": "+1 mines dropped"
 				}
 			}
 		},
 		{
 			"name": "Repulsion Armor",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Repulsion_Armor",
 				"img": {
@@ -820,14 +918,16 @@
 				},
 				"fields": {
 					"Description": "After 6 hits reduce and reflect incoming damage by 83% for 3 seconds",
-					"Stacking": "Increases length of reflection by 1 second to a cap of 8 seconds.",
-					"Rarity": "Rare",
-					"Type": "Healing"
+					"Stacking": "Increases length of reflection by 1 second to a cap of 8 seconds."
 				}
 			}
 		},
 		{
 			"name": "Sprouting Egg",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Sprouting_Egg",
 				"img": {
@@ -837,14 +937,16 @@
 				},
 				"fields": {
 					"Description": "After not being hit for 7 seconds, increase health regen by 2.4 health per second.",
-					"Stacking": "+2.4 heath per second out of combat.",
-					"Rarity": "Common",
-					"Type": "Healing"
+					"Stacking": "+2.4 heath per second out of combat."
 				}
 			}
 		},
 		{
 			"name": "Tough Times",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Tough_Times",
 				"img": {
@@ -854,14 +956,16 @@
 				},
 				"fields": {
 					"Description": "Increase armor by 14.",
-					"Stacking": "+14 armor.",
-					"Rarity": "Uncommon",
-					"Type": "Healing"
+					"Stacking": "+14 armor."
 				}
 			}
 		},
 		{
 			"name": "Interstellar Desk Plant",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Healing"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Interstellar_Desk_Plant",
 				"img": {
@@ -871,14 +975,16 @@
 				},
 				"fields": {
 					"Description": "On kill: Upon killing an enemy, spawn an alien plant that heals you for 8 hp.",
-					"Stacking": "+3 health per fruit.",
-					"Rarity": "Rare",
-					"Type": "Healing"
+					"Stacking": "+3 health per fruit."
 				}
 			}
 		},
 		{
 			"name": "56 Leaf Clover",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/56_Leaf_Clover",
 				"img": {
@@ -888,14 +994,16 @@
 				},
 				"fields": {
 					"Description": "Elite mobs have a 4% chance to drop items",
-					"Stacking": "+1.5% item drop chance, up to a maximum of 100% at 67 stacks",
-					"Rarity": "Uncommon",
-					"Type": "Utility"
+					"Stacking": "+1.5% item drop chance, up to a maximum of 100% at 67 stacks"
 				}
 			}
 		},
 		{
 			"name": "Alien Head",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Alien_Head",
 				"img": {
@@ -905,14 +1013,16 @@
 				},
 				"fields": {
 					"Description": "Decreases your cooldowns by 25%",
-					"Stacking": "Stacks multiplicatively up to 3 times. (60% reduction)",
-					"Rarity": "Rare",
-					"Type": "Utility"
+					"Stacking": "Stacks multiplicatively up to 3 times. (60% reduction)"
 				}
 			}
 		},
 		{
 			"name": "Ancient Scepter",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Ancient_Scepter",
 				"img": {
@@ -922,14 +1032,16 @@
 				},
 				"fields": {
 					"Description": "Upgrade your fourth ability; this is unique to each character class.",
-					"Stacking": "Does not stack",
-					"Rarity": "Rare",
-					"Type": "Utility"
+					"Stacking": "Does not stack"
 				}
 			}
 		},
 		{
 			"name": "Arms Race",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Arms_Race",
 				"img": {
@@ -939,14 +1051,16 @@
 				},
 				"fields": {
 					"Description": "On drone action: 9% chance for drones to fire missiles and mortars",
-					"Stacking": "Increases chance of firing artillery",
-					"Rarity": "Uncommon",
-					"Type": "Utility"
+					"Stacking": "Increases chance of firing artillery"
 				}
 			}
 		},
 		{
 			"name": "Beating Embryo",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Beating_Embryo",
 				"img": {
@@ -956,14 +1070,16 @@
 				},
 				"fields": {
 					"Description": "Use items have a 30% chance to deal double the effect.",
-					"Stacking": "Increases duplication chance by 30%",
-					"Rarity": "Rare",
-					"Type": "Utility"
+					"Stacking": "Increases duplication chance by 30%"
 				}
 			}
 		},
 		{
 			"name": "Concussion Grenade",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Concussion_Grenade",
 				"img": {
@@ -973,14 +1089,16 @@
 				},
 				"fields": {
 					"Description": "(6%) On hit: 6% chance to stun enemies for two seconds",
-					"Stacking": "+6% multiplicatively",
-					"Rarity": "Uncommon",
-					"Type": "Utility"
+					"Stacking": "+6% multiplicatively"
 				}
 			}
 		},
 		{
 			"name": "Energy Cell",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Energy_Cell",
 				"img": {
@@ -990,14 +1108,16 @@
 				},
 				"fields": {
 					"Description": "When at low heath: Increased attack speed by up to 40% at lower health.",
-					"Stacking": "Increases attack speed bonus when triggered",
-					"Rarity": "Uncommon",
-					"Type": "Utility"
+					"Stacking": "Increases attack speed bonus when triggered"
 				}
 			}
 		},
 		{
 			"name": "Filial Imprinting",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Filial_Imprinting",
 				"img": {
@@ -1007,14 +1127,16 @@
 				},
 				"fields": {
 					"Description": "Drops attack speed/health regen/move speed buffs every 20 seconds.",
-					"Stacking": "+1 hatched creature",
-					"Rarity": "Uncommon",
-					"Type": "Utility"
+					"Stacking": "+1 hatched creature"
 				}
 			}
 		},
 		{
 			"name": "Fire Shield",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Fire_Shield",
 				"img": {
@@ -1024,14 +1146,16 @@
 				},
 				"fields": {
 					"Description": "After being hit for 10% of your maximum health in one hit: explode, dealing 200% damage",
-					"Stacking": "Increases explosion damage",
-					"Rarity": "Common",
-					"Type": "Utility"
+					"Stacking": "Increases explosion damage"
 				}
 			}
 		},
 		{
 			"name": "Happiest Mask",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Happiest_Mask",
 				"img": {
@@ -1041,14 +1165,16 @@
 				},
 				"fields": {
 					"Description": "On kill: Killing enemies spawn ghosts for 15 seconds with 70% health and 50% damage",
-					"Stacking": "Increases ghost damage and durability",
-					"Rarity": "Rare",
-					"Type": "Utility"
+					"Stacking": "Increases ghost damage and durability"
 				}
 			}
 		},
 		{
 			"name": "Hermit's Scarf",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Hermit%27s_Scarf",
 				"img": {
@@ -1058,14 +1184,16 @@
 				},
 				"fields": {
 					"Description": "10% chance to evade attacks",
-					"Stacking": "Increases dodge chance +5%, up to a maximum of 35% at 6 stacks",
-					"Rarity": "Common",
-					"Type": "Utility"
+					"Stacking": "Increases dodge chance +5%, up to a maximum of 35% at 6 stacks"
 				}
 			}
 		},
 		{
 			"name": "Hopoo Feather",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Hopoo_Feather",
 				"img": {
@@ -1075,14 +1203,16 @@
 				},
 				"fields": {
 					"Description": "Gain another jump.",
-					"Stacking": "Adds an additional jump",
-					"Rarity": "Uncommon",
-					"Type": "Utility"
+					"Stacking": "Adds an additional jump"
 				}
 			}
 		},
 		{
 			"name": "Imp Overlord's Tentacle",
+			"attrs": {
+				"Rarity": "Boss",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Imp_Overlord%27s_Tentacle",
 				"img": {
@@ -1092,14 +1222,16 @@
 				},
 				"fields": {
 					"Description": "Summon an Imp Bodyguard that revives every 60 seconds.",
-					"Stacking": "Increase his health, damage, and speed.",
-					"Rarity": "Boss",
-					"Type": "Utility"
+					"Stacking": "Increase his health, damage, and speed."
 				}
 			}
 		},
 		{
 			"name": "Lens-Maker's Glasses",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Lens_Maker%27s_Glasses",
 				"img": {
@@ -1109,14 +1241,16 @@
 				},
 				"fields": {
 					"Description": "(7%) On hit: Your attacks have a 10% chance to critically strike, dealing double damage",
-					"Stacking": "+7% crit chance. 100% chance to crit on 14 stacks.",
-					"Rarity": "Common",
-					"Type": "Utility"
+					"Stacking": "+7% crit chance. 100% chance to crit on 14 stacks."
 				}
 			}
 		},
 		{
 			"name": "Life Savings",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Life_Savings",
 				"img": {
@@ -1126,14 +1260,16 @@
 				},
 				"fields": {
 					"Description": "Generate $1 every 3 seconds.",
-					"Stacking": "+1 gold generation rate",
-					"Rarity": "Common",
-					"Type": "Utility"
+					"Stacking": "+1 gold generation rate"
 				}
 			}
 		},
 		{
 			"name": "Old Box",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Old_Box",
 				"img": {
@@ -1143,14 +1279,16 @@
 				},
 				"fields": {
 					"Description": "When at low heath: Drop a jack-in-the-box at low health, fearing enemies for 2 seconds.",
-					"Stacking": "Widens the health range",
-					"Rarity": "Rare",
-					"Type": "Utility"
+					"Stacking": "Widens the health range"
 				}
 			}
 		},
 		{
 			"name": "Paul's Goat Hoof",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Paul%27s_Goat_Hoof",
 				"img": {
@@ -1160,14 +1298,16 @@
 				},
 				"fields": {
 					"Description": "Run 20% faster.",
-					"Stacking": "Further increases movement speed by 20%",
-					"Rarity": "Common",
-					"Type": "Utility"
+					"Stacking": "Further increases movement speed by 20%"
 				}
 			}
 		},
 		{
 			"name": "Permafrost",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Permafrost",
 				"img": {
@@ -1177,14 +1317,16 @@
 				},
 				"fields": {
 					"Description": "(?%) On hit: Chance to stun enemies for 1.5 seconds and slow enemies by 60% for 3 seconds",
-					"Stacking": "Further increases chance by 6%, multiplicative (??)",
-					"Rarity": "Rare",
-					"Type": "Utility"
+					"Stacking": "Further increases chance by 6%, multiplicative (??)"
 				}
 			}
 		},
 		{
 			"name": "Photon Jetpack",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Photon_Jetpack",
 				"img": {
@@ -1194,14 +1336,16 @@
 				},
 				"fields": {
 					"Description": "Allows the player to fly for up to 1.6 seconds nonstop; the jetpack's fuel tank quickly refills when not in use",
-					"Stacking": "+0.8 sec maximum flight duration",
-					"Rarity": "Rare",
-					"Type": "Utility"
+					"Stacking": "+0.8 sec maximum flight duration"
 				}
 			}
 		},
 		{
 			"name": "Prison Shackles",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Prison_Shackles",
 				"img": {
@@ -1211,14 +1355,16 @@
 				},
 				"fields": {
 					"Description": "On hit: Slow enemies by 20% on every attack.",
-					"Stacking": "+0.5s slowing duration.+20% Slow ( Max 60% ). (??)",
-					"Rarity": "Uncommon",
-					"Type": "Utility"
+					"Stacking": "+0.5s slowing duration.+20% Slow ( Max 60% ). (??)"
 				}
 			}
 		},
 		{
 			"name": "Rapid Mitosis",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Rapid_Mitosis",
 				"img": {
@@ -1228,14 +1374,16 @@
 				},
 				"fields": {
 					"Description": "Reduce the cooldown of use items by 25%",
-					"Stacking": "Further reduces item cooldowns by 25%, multiplicatively. Soft caps at around 30 stacks.",
-					"Rarity": "Rare",
-					"Type": "Utility"
+					"Stacking": "Further reduces item cooldowns by 25%, multiplicatively. Soft caps at around 30 stacks."
 				}
 			}
 		},
 		{
 			"name": "Red Whip",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Red_Whip",
 				"img": {
@@ -1245,14 +1393,16 @@
 				},
 				"fields": {
 					"Description": "Leaving combat for 1.5 seconds boosts your movement speed by 80%.",
-					"Stacking": "Does not stack",
-					"Rarity": "Uncommon",
-					"Type": "Utility"
+					"Stacking": "Does not stack"
 				}
 			}
 		},
 		{
 			"name": "Rusty Jetpack",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Rusty_Jetpack",
 				"img": {
@@ -1262,14 +1412,16 @@
 				},
 				"fields": {
 					"Description": "Decrease gravity by 50% and increase jump height by 10%",
-					"Stacking": "+10% jump height",
-					"Rarity": "Uncommon",
-					"Type": "Utility"
+					"Stacking": "+10% jump height"
 				}
 			}
 		},
 		{
 			"name": "Smart Shopper",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Smart_Shopper",
 				"img": {
@@ -1279,14 +1431,16 @@
 				},
 				"fields": {
 					"Description": "Killed enemies drop 25% more gold.",
-					"Stacking": "+25% enemy gold drops",
-					"Rarity": "Uncommon",
-					"Type": "Utility"
+					"Stacking": "+25% enemy gold drops"
 				}
 			}
 		},
 		{
 			"name": "Snake Eyes",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Snake_Eyes",
 				"img": {
@@ -1296,14 +1450,16 @@
 				},
 				"fields": {
 					"Description": "Failing a shrine increases critical chance by 6%",
-					"Stacking": "Further increases crit chance by 3% for each shrine fail",
-					"Rarity": "Common",
-					"Type": "Utility"
+					"Stacking": "Further increases crit chance by 3% for each shrine fail"
 				}
 			}
 		},
 		{
 			"name": "Soldier's Syringe",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Soldier%27s_Syringe",
 				"img": {
@@ -1313,14 +1469,16 @@
 				},
 				"fields": {
 					"Description": "Increased attack speed by 15%.",
-					"Stacking": "adds another 15% increase up to 13 times, maxing at +195%",
-					"Rarity": "Common",
-					"Type": "Utility"
+					"Stacking": "adds another 15% increase up to 13 times, maxing at +195%"
 				}
 			}
 		},
 		{
 			"name": "Spikestrip",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Spikestrip",
 				"img": {
@@ -1330,14 +1488,16 @@
 				},
 				"fields": {
 					"Description": "When hit: When hit, drops spikestrips (lasts for 2 seconds) that slow enemies by 20%",
-					"Stacking": "Increases the duration of spikestrips by 1 second per stack.",
-					"Rarity": "Common",
-					"Type": "Utility"
+					"Stacking": "Increases the duration of spikestrips by 1 second per stack."
 				}
 			}
 		},
 		{
 			"name": "Hit List",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/The_Hit_List",
 				"img": {
@@ -1347,14 +1507,16 @@
 				},
 				"fields": {
 					"Description": "Killing a randomly marked enemy permanently increases damage by 0.5",
-					"Stacking": "Increase amount of markable enemies.",
-					"Rarity": "Rare",
-					"Type": "Utility"
+					"Stacking": "Increase amount of markable enemies."
 				}
 			}
 		},
 		{
 			"name": "Time Keeper's Secret",
+			"attrs": {
+				"Rarity": "Uncommon",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Time_Keeper%27s_Secret",
 				"img": {
@@ -1364,14 +1526,16 @@
 				},
 				"fields": {
 					"Description": "When at low heath: Falling to low health stops time for 3 seconds.",
-					"Stacking": "+1s time stop duration, up to a maximum of 10 seconds at 8 stacks.",
-					"Rarity": "Uncommon",
-					"Type": "Utility"
+					"Stacking": "+1s time stop duration, up to a maximum of 10 seconds at 8 stacks."
 				}
 			}
 		},
 		{
 			"name": "Warbanner",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Warbanner",
 				"img": {
@@ -1381,14 +1545,16 @@
 				},
 				"fields": {
 					"Description": "On level up drop a banner. Raise attack/move speed by 30% and damage by 4.",
-					"Stacking": "Increases area of effect from banners.",
-					"Rarity": "Common",
-					"Type": "Utility"
+					"Stacking": "Increases area of effect from banners."
 				}
 			}
 		},
 		{
 			"name": "Wicked Ring",
+			"attrs": {
+				"Rarity": "Rare",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Wicked_Ring",
 				"img": {
@@ -1398,14 +1564,16 @@
 				},
 				"fields": {
 					"Description": "On crit: Critical strikes reduce cooldowns by 1 second.",
-					"Stacking": "+1s cooldown reduction on crit, +6% critical chance.",
-					"Rarity": "Rare",
-					"Type": "Utility"
+					"Stacking": "+1s cooldown reduction on crit, +6% critical chance."
 				}
 			}
 		},
 		{
 			"name": "Taser",
+			"attrs": {
+				"Rarity": "Common",
+				"Type": "Utility"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Taser",
 				"img": {
@@ -1415,14 +1583,15 @@
 				},
 				"fields": {
 					"Description": "7% chance to snare enemies for 1.5 seconds.",
-					"Stacking": "+.5 second duration per stack",
-					"Rarity": "Common",
-					"Type": "Utility"
+					"Stacking": "+.5 second duration per stack"
 				}
 			}
 		},
 		{
 			"name": "Dynamite Plunger",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Dynamite_Plunger",
 				"img": {
@@ -1433,13 +1602,15 @@
 				"fields": {
 					"Description": "Hitting an enemy drops dynamite. Use to detonate for 400% damage.",
 					"Cooldown": "45 seconds",
-					"Embryo": "Throws two dynamite at once",
-					"Rarity": "Equipment"
+					"Embryo": "Throws two dynamite at once"
 				}
 			}
 		},
 		{
 			"name": "Gigantic Amethyst",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Gigantic_Amethyst",
 				"img": {
@@ -1449,13 +1620,15 @@
 				},
 				"fields": {
 					"Description": "Reset all your cooldowns.",
-					"Cooldown": "8 seconds",
-					"Rarity": "Equipment"
+					"Cooldown": "8 seconds"
 				}
 			}
 		},
 		{
 			"name": "Thqwib",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Thqwib",
 				"img": {
@@ -1466,13 +1639,15 @@
 				"fields": {
 					"Description": "Release a bloom of 30 thqwibs, detonating on impact for 200%.",
 					"Cooldown": "45 seconds",
-					"Embryo": "Releases twice as many Thqwibs.",
-					"Rarity": "Equipment"
+					"Embryo": "Releases twice as many Thqwibs."
 				}
 			}
 		},
 		{
 			"name": "Captain's Brooch",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Captain%27s_Brooch",
 				"img": {
@@ -1483,13 +1658,15 @@
 				"fields": {
 					"Description": "Call down a chest nearby",
 					"Cooldown": "135 seconds",
-					"Embryo": "Drops a second chest",
-					"Rarity": "Equipment"
+					"Embryo": "Drops a second chest"
 				}
 			}
 		},
 		{
 			"name": "Carrara Marble",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Carrara_Marble",
 				"img": {
@@ -1500,13 +1677,15 @@
 				"fields": {
 					"Description": "Place a marble gate. Teleport back to the gate by activating again.",
 					"Cooldown": "3 seconds (placement)45 seconds (activation)",
-					"Embryo": "N/A",
-					"Rarity": "Equipment"
+					"Embryo": "N/A"
 				}
 			}
 		},
 		{
 			"name": "Crudely Drawn Buddy",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Crudely_Drawn_Buddy",
 				"img": {
@@ -1517,13 +1696,15 @@
 				"fields": {
 					"Description": "Blow up a decoy, attracting enemies for 8 seconds. Looks just like you.",
 					"Cooldown": "45 seconds",
-					"Embryo": "Doubles duration of decoy to 16 seconds.",
-					"Rarity": "Equipment"
+					"Embryo": "Doubles duration of decoy to 16 seconds."
 				}
 			}
 		},
 		{
 			"name": "Disposable Missile Launcher",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Disposable_Missile_Launcher",
 				"img": {
@@ -1534,13 +1715,15 @@
 				"fields": {
 					"Description": "Fire a swarm of missiles.",
 					"Cooldown": "45 seconds",
-					"Embryo": "Doubles the amount of missiles to 24.",
-					"Rarity": "Equipment"
+					"Embryo": "Doubles the amount of missiles to 24."
 				}
 			}
 		},
 		{
 			"name": "Drone Repair Kit",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Drone_Repair_Kit",
 				"img": {
@@ -1551,13 +1734,15 @@
 				"fields": {
 					"Description": "Repairs all drones to full health.",
 					"Cooldown": "45 seconds",
-					"Embryo": "none",
-					"Rarity": "Equipment"
+					"Embryo": "none"
 				}
 			}
 		},
 		{
 			"name": "Foreign Fruit",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Foreign_Fruit",
 				"img": {
@@ -1568,13 +1753,15 @@
 				"fields": {
 					"Description": "Heal yourself for 50% of your health",
 					"Cooldown": "45 seconds",
-					"Embryo": "Recover all of your health",
-					"Rarity": "Equipment"
+					"Embryo": "Recover all of your health"
 				}
 			}
 		},
 		{
 			"name": "Glowing Meteorite",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Glowing_Meteorite",
 				"img": {
@@ -1585,13 +1772,15 @@
 				"fields": {
 					"Description": "Meteors fall from the sky, damaging enemies and friends for 220% damage. Lasts 8 seconds.",
 					"Cooldown": "70 seconds",
-					"Embryo": "of meteors and active duration",
-					"Rarity": "Equipment"
+					"Embryo": "of meteors and active duration"
 				}
 			}
 		},
 		{
 			"name": "Gold-plated Bomb",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Gold-plated_Bomb",
 				"img": {
@@ -1602,13 +1791,15 @@
 				"fields": {
 					"Description": "Use 50% of your gold to create a bomb, dealing 1 damage per gold spent.",
 					"Cooldown": "45 seconds",
-					"Embryo": "2 damage per gold spent",
-					"Rarity": "Equipment"
+					"Embryo": "2 damage per gold spent"
 				}
 			}
 		},
 		{
 			"name": "Instant Minefield",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Instant_Minefield",
 				"img": {
@@ -1619,13 +1810,15 @@
 				"fields": {
 					"Description": "Drop 6 mines at your feet, each dealing 400% damage.",
 					"Cooldown": "45 seconds",
-					"Embryo": "Drop 6 additional mines",
-					"Rarity": "Equipment"
+					"Embryo": "Drop 6 additional mines"
 				}
 			}
 		},
 		{
 			"name": "Jar of Souls",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Jar_of_Souls",
 				"img": {
@@ -1636,13 +1829,15 @@
 				"fields": {
 					"Description": "Duplicate every enemy as a ghost to fight on your side.",
 					"Cooldown": "45 seconds",
-					"Embryo": "Summons an additional ghost per enemy.",
-					"Rarity": "Equipment"
+					"Embryo": "Summons an additional ghost per enemy."
 				}
 			}
 		},
 		{
 			"name": "Lost Doll",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Lost_Doll",
 				"img": {
@@ -1653,13 +1848,15 @@
 				"fields": {
 					"Description": "Sacrifice 25% health to damage an enemy for 500% of your maximum health.",
 					"Cooldown": "45 seconds",
-					"Embryo": "Damages 2 enemies instead of one (Unconfirmed)",
-					"Rarity": "Equipment"
+					"Embryo": "Damages 2 enemies instead of one (Unconfirmed)"
 				}
 			}
 		},
 		{
 			"name": "Massive Leech",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Massive_Leech",
 				"img": {
@@ -1669,13 +1866,15 @@
 				},
 				"fields": {
 					"Description": "For 10 seconds, every hit heals you for 10 health.",
-					"Cooldown": "45 seconds",
-					"Rarity": "Equipment"
+					"Cooldown": "45 seconds"
 				}
 			}
 		},
 		{
 			"name": "Nematocyst Nozzle",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Nematocyst_Nozzle",
 				"img": {
@@ -1686,13 +1885,15 @@
 				"fields": {
 					"Description": "On use: Shoot out 6 nematocysts that deal 200% damage.",
 					"Cooldown": "23 seconds",
-					"Embryo": "Shoot 12 nematocysts instead of 6",
-					"Rarity": "Equipment"
+					"Embryo": "Shoot 12 nematocysts instead of 6"
 				}
 			}
 		},
 		{
 			"name": "Pillaged Gold",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Pillaged_Gold",
 				"img": {
@@ -1703,13 +1904,15 @@
 				"fields": {
 					"Description": "Every monster in view drops 10 gold.",
 					"Cooldown": "45 seconds",
-					"Embryo": "of gold dropped (confirm)",
-					"Rarity": "Equipment"
+					"Embryo": "of gold dropped (confirm)"
 				}
 			}
 		},
 		{
 			"name": "Prescriptions",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Prescriptions",
 				"img": {
@@ -1720,13 +1923,15 @@
 				"fields": {
 					"Description": "Increase damage by 10 and attack speed by %40 for 8 seconds.",
 					"Cooldown": "45 seconds",
-					"Embryo": "Doubles the attack speed increment to +80%",
-					"Rarity": "Equipment"
+					"Embryo": "Doubles the attack speed increment to +80%"
 				}
 			}
 		},
 		{
 			"name": "Rotten Brain",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Rotten_Brain",
 				"img": {
@@ -1737,13 +1942,15 @@
 				"fields": {
 					"Description": "Throw a brain that bounces in place, damaging/slowing enemies for 6x200%.",
 					"Cooldown": "45 seconds",
-					"Embryo": "Throw an additional brain",
-					"Rarity": "Equipment"
+					"Embryo": "Throw an additional brain"
 				}
 			}
 		},
 		{
 			"name": "Safeguard Lantern",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Safeguard_Lantern",
 				"img": {
@@ -1754,13 +1961,15 @@
 				"fields": {
 					"Description": "Drop a lantern for 10 seconds. Fears and damages enemies for 20% damage.",
 					"Cooldown": "45 seconds",
-					"Embryo": "Doubles duration to 20 seconds.",
-					"Rarity": "Equipment"
+					"Embryo": "Doubles duration to 20 seconds."
 				}
 			}
 		},
 		{
 			"name": "Sawmerang",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Sawmerang",
 				"img": {
@@ -1771,13 +1980,15 @@
 				"fields": {
 					"Description": "Throw out a sawmerang for 500% damage and bleed for 4*100%.",
 					"Cooldown": "45 seconds",
-					"Embryo": "Launches an identical Sawmerang behind the player",
-					"Rarity": "Equipment"
+					"Embryo": "Launches an identical Sawmerang behind the player"
 				}
 			}
 		},
 		{
 			"name": "Shattered Mirror",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Shattered_Mirror",
 				"img": {
@@ -1788,13 +1999,15 @@
 				"fields": {
 					"Description": "For 15 seconds, double all of your abilities' damage and effects.",
 					"Cooldown": "75 seconds",
-					"Embryo": "Damage and effects are tripled instead",
-					"Rarity": "Equipment"
+					"Embryo": "Damage and effects are tripled instead"
 				}
 			}
 		},
 		{
 			"name": "Shield Generator",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Shield_Generator",
 				"img": {
@@ -1805,13 +2018,15 @@
 				"fields": {
 					"Description": "Become invincible for 8 seconds.",
 					"Cooldown": "45 seconds",
-					"Embryo": "Doubles invincibility duration",
-					"Rarity": "Equipment"
+					"Embryo": "Doubles invincibility duration"
 				}
 			}
 		},
 		{
 			"name": "Skeleton Key",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Skeleton_Key",
 				"img": {
@@ -1822,13 +2037,15 @@
 				"fields": {
 					"Description": "Open all the chests in view.",
 					"Cooldown": "90 seconds",
-					"Embryo": "Increases range of the chest opening, causing it to go offscreen.",
-					"Rarity": "Equipment"
+					"Embryo": "Increases range of the chest opening, causing it to go offscreen."
 				}
 			}
 		},
 		{
 			"name": "Snowglobe",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Snowglobe",
 				"img": {
@@ -1839,13 +2056,15 @@
 				"fields": {
 					"Description": "Summon a snowstorm that freezes monsters at a 30% chance over 7 seconds",
 					"Cooldown": "45 seconds",
-					"Embryo": "Doubles the duration of the snowstorm",
-					"Rarity": "Equipment"
+					"Embryo": "Doubles the duration of the snowstorm"
 				}
 			}
 		},
 		{
 			"name": "The Back-up",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/The_Back-up",
 				"img": {
@@ -1856,13 +2075,15 @@
 				"fields": {
 					"Description": "Create 4 drones to fight for you for 10 seconds.",
 					"Cooldown": "45 seconds",
-					"Embryo": "+2 Drones",
-					"Rarity": "Equipment"
+					"Embryo": "+2 Drones"
 				}
 			}
 		},
 		{
 			"name": "Unstable Watch",
+			"attrs": {
+				"Rarity": "Equipment"
+			},
 			"props": {
 				"url": "https://riskofrain.fandom.com/wiki/Unstable_Watch",
 				"img": {
@@ -1873,15 +2094,13 @@
 				"fields": {
 					"Description": "Stop time for 7 seconds",
 					"Cooldown": "67 seconds",
-					"Embryo": "Doubles duration to 14 seconds.",
-					"Rarity": "Equipment"
+					"Embryo": "Doubles duration to 14 seconds."
 				}
 			}
 		}
 	],
-	"attrs": [
-		{
-			"pointer": "/props/fields/Rarity",
+	"attrConfigs": {
+		"Rarity": {
 			"order": [
 				"Common",
 				"Uncommon",
@@ -1889,9 +2108,6 @@
 				"Boss",
 				"Equipment"
 			]
-		},
-		{
-			"pointer": "/props/fields/Type"
 		}
-	]
+	}
 }
