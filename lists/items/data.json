@@ -2099,7 +2099,7 @@
 			}
 		}
 	],
-	"attrConfigs": {
+	"attrMeta": {
 		"Rarity": {
 			"order": [
 				"Common",
