@@ -2099,15 +2099,13 @@
 			}
 		}
 	],
-	"attrMeta": {
-		"Rarity": {
-			"order": [
-				"Common",
-				"Uncommon",
-				"Rare",
-				"Boss",
-				"Equipment"
-			]
-		}
+	"attrValuesOrder": {
+		"Rarity": [
+			"Common",
+			"Uncommon",
+			"Rare",
+			"Boss",
+			"Equipment"
+		]
 	}
 }
